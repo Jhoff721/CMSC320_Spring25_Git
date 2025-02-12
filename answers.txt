@@ -1,3 +1,11 @@
 Q1: Why might we consider using Git?
 
 Answer: To allow for easy integration of new code and to work with others more efficiently. All of this can be done easily on the terminal.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to Marketing. This is because it will help the team
+better understand what demographics they are hitting and where they need to focus on. 
+For example, Tik Tok should use data science to see what age range buys the most on Tik Tok
+shop. This way they can show more ads for that age range and produce more revenue.
+
