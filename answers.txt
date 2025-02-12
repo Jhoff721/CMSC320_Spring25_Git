@@ -9,3 +9,11 @@ better understand what demographics they are hitting and where they need to focu
 For example, Tik Tok should use data science to see what age range buys the most on Tik Tok
 shop. This way they can show more ads for that age range and produce more revenue.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging happens all at once. If there are any conflicts, they are all resolved in a 
+signular merge conflict. Rebasing occurs one commit at a time. It starts with the main branch and
+one at a time adds commits from the feature branch. If there is a conflict, it is resolved, then the 
+next commit from the feature branch it looked at until they are all resolved. Merging and Rebasing
+are just different ways to combine branches.
+
