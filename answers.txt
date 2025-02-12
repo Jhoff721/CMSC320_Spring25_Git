@@ -17,3 +17,7 @@ one at a time adds commits from the feature branch. If there is a conflict, it i
 next commit from the feature branch it looked at until they are all resolved. Merging and Rebasing
 are just different ways to combine branches.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to collecting my own data and seeing what types of information I can gain from it. I want to work with data in my career so this will be a solid foundation for me.
+
